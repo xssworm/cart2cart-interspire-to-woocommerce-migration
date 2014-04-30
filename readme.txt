@@ -18,7 +18,6 @@ This plugin simplifies data transfer process and spares your time and efforts. U
 - **Free Demo** - perform test move data before proceeding to full migration.
 - **Support** - always available to answer all your questions.
 
- 
 = You can migrate the following from Interspire to WooCommerce =
 * Products, product images, product extra fields, product attributes, product variants;
 * Orders, order statuses;
